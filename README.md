@@ -1,6 +1,7 @@
 # powerbi-guided-dashboard-project
 
-This repository contains an interactive Power BI report developed as a guided build while following Alex The Analyst’s Power BI tutorial series. The project emphasizes business intelligence workflows, interactivity, and dashboard design rather than static analysis.
+This repository contains an interactive Power BI report built using a real-world dataset collected through a survey. The project was developed as a guided implementation following Alex The Analyst’s Power BI tutorial series. It emphasizes business intelligence workflows, interactivity, and dashboard design rather than static analysis.
+
 
 ## The Project 
 This project was built to practice:
