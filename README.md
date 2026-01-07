@@ -16,7 +16,7 @@ The Power BI file includes:
 - Interactive visuals with slicers, cross-filtering, and drilldowns
 - A dashboard layout optimized for clarity and stakeholder consumption
 
-![Power BI Dashboard Preview](dashboard_screenshot/overview.png)
+![Power BI Dashboard Preview](dashboard_screenshot.png)
 
 ## Technical Focus Areas
 
@@ -29,7 +29,7 @@ The Power BI file includes:
 ## File Contents
 
 - `PowerBI_Project.pbix` — complete Power BI report with model, measures, and visuals  
-- `dashboard_screenshot/` — static previews of report pages   
+- `dashboard_screenshot` — static previews of report pages   
 
 ## Attribution & Context
 This dashboard was created as a guided implementation based on Alex The Analyst’s Power BI tutorial content.  
