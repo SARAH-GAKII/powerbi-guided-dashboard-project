@@ -28,11 +28,12 @@ The Power BI file includes:
 
 ## File Contents
 
-- `PowerBI_Project.pbix` — complete Power BI report with model, measures, and visuals  
-- `dashboard_screenshot` — static previews of report pages   
+- [PowerBI_Project.pbix](PowerBI_Project.pbix) — complete Power BI report with model, measures, and visuals  
+- [dashboard_screenshots](dashboard_screenshots.png) — static previews of report pages 
+ 
 
 ## Attribution & Context
-This dashboard was created as a guided implementation based on Alex The Analyst’s Power BI tutorial content.  
+This dashboard was created as a guided implementation based on Alex The Analyst’s Power BI tutorial content on Youtube.  
 
 It is included here to demonstrate applied Power BI skills and fluency with BI tooling.
 It reflects a hands-on, tool-focused approach to learning Power BI and translating data into interactive insight.
